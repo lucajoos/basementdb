@@ -1,0 +1,10 @@
+{
+  "name": "basementdb",
+  "version": "1.0.0",
+  "description": "BasementDB is a simple Node.JS based database.",
+  "main": "basementdb.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Luca Joos <1a85ra7z@gmail.com>",
+  "license": "MIT"
+}
