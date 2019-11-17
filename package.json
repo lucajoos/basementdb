@@ -4,7 +4,8 @@
   "description": "BasementDB is a simple Node.JS based database.",
   "main": "basementdb.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "basementdb", "basement", "database"],
   "author": "Luca Joos <1a85ra7z@gmail.com>",
   "license": "MIT",
   "repository": {
